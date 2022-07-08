@@ -1,7 +1,7 @@
 ## Welcome to Yihoon's GitHub!
 I'm an undergraduate student in **Sungkyunkwan University**,
 
-Studying `Business Administration` and `Data Science`.
+studying `Business Administration` and `Data Science`.
 
 I'm also a chef manager of `DSCover`, a data analyzing academy in SKKU.
 ### I can use
