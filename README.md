@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to Yihoon's GitHub!
+I'm an undergraduate student in **Sungkyunkwan University**,
 
-<!--
-**Yihoon-J/Yihoon-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying `Business Administration` and `Data Science`.
 
-Here are some ideas to get you started:
+I'm also a chef manager of `DSCover`, a data analyzing academy in SKKU.
+### I can use
+![py](https://img.shields.io/badge/-Python-F08027)
+![R](https://img.shields.io/badge/-R-76AADB)
+![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
+![Tab](https://img.shields.io/badge/-Tableau-468CBB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### External Links
+* [notion](https://yihoon.notion.site/Portfolio-4157016c7b5f4fddb292f2bff9f37d65)
+* [blog](https://blog.naver.com/appleof01)
+* email: appleof01@gmail.com
