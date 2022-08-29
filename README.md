@@ -10,6 +10,9 @@ I'm also a chef manager of `DSCover`, a data analyzing academy in SKKU.
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
 ![Tab](https://img.shields.io/badge/-Tableau-468CBB)
 
+I published
+- Y.Jeon, "Differences in Press Photography by the Political Tendency of Media Companies: Focusing on union-related reports"
+
 
 ### External Links
 * [notion](https://yihoon.notion.site/Portfolio-4157016c7b5f4fddb292f2bff9f37d65)
