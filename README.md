@@ -3,7 +3,7 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-I'm also a chef manager of `DSCover`, a data analyzing academy in SKKU.
+I'm also a chief manager of `DSCover`, a data analyzing academy in SKKU.
 
 ### I can use
 ![py](https://img.shields.io/badge/-Python-F08027)
