@@ -3,7 +3,7 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-My interests are usually **Data Analysis** but also studying **Computer Vision** and **Korean NLP**
+My interests are usually **Data Analysis** but also studying **Computer Vision** and **Korean NLP** as well.
 
 I'm also a chief manager of `DSCover`, a data analyzing academy in SKKU.
 
