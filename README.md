@@ -3,9 +3,14 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-My interests are usually **Data Analysis**, but I'm also studying **Computer Vision** and **Korean NLP** as well.
+I'm working at **Betabrain**, a Consulting firm with AI & Business Analytics
 
-I'm also a chief manager of `DSCover`, a data analyzing academy in SKKU.
+My interests are usually **Data Analysis** :
+
+**Business Analysis** and **Financial Engineering** are my major interests
+
+I was a chief manager of `DSCover`, a data analyzing academy in SKKU.
+
 
 ### I can use
 ![py](https://img.shields.io/badge/-Python-F08027)
