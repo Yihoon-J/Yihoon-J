@@ -3,7 +3,7 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-I'm working at **![Betabrain](https://www.betabrain.co.kr/)**, a Consulting firm with AI & Business Analytics
+I'm working at **[Betabrain](https://www.betabrain.co.kr/)**, a Consulting firm with AI & Business Analytics
 
 
 **Business Analysis** and **Financial Engineering** are my major interests
