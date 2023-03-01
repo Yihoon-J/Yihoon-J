@@ -6,8 +6,6 @@ studying `Business Administration` and `Data Science`.
 I'm working at **Betabrain**, a Consulting firm with AI & Business Analytics
 
 
-**Data Analysis** :
-
 **Business Analysis** and **Financial Engineering** are my major interests
 
 I was a chief manager of `DSCover`, a data analyzing academy in SKKU.
