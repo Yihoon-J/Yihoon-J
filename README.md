@@ -5,7 +5,8 @@ studying `Business Administration` and `Data Science`.
 
 I'm working at **Betabrain**, a Consulting firm with AI & Business Analytics
 
-My interests are usually **Data Analysis** :
+
+**Data Analysis** :
 
 **Business Analysis** and **Financial Engineering** are my major interests
 
