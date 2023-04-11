@@ -9,6 +9,7 @@ I'm working at **[Betabrain](https://www.betabrain.co.kr/)**, a Consulting firm 
 **Business Analysis** and **Financial Engineering** are my major interests
 
 I was a chief manager of `DSCover`, a data analyzing academy in SKKU.
+Now I'm studying at `FR`, a financial engineering academy in SKKU.
 
 
 ### I can use
