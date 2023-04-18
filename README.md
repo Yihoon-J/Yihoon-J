@@ -3,16 +3,17 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-I'm working at **[Betabrain](https://www.betabrain.co.kr/)**, a Consulting firm with AI & Business Analytics
+I'm now hired at **[Betabrain](https://www.betabrain.co.kr/)**,
+working as Data Analyst.
+
+**Business Analysis** and **Financial Engineering** are my major interests.
+
+I was a chief manager of `DSCover` - data analyzing academy in SKKU.
+
+Now I'm studying at `FR` - financial engineering academy in SKKU.
 
 
-**Business Analysis** and **Financial Engineering** are my major interests
-
-I was a chief manager of `DSCover`, a data analyzing academy in SKKU.
-Now I'm studying at `FR`, a financial engineering academy in SKKU.
-
-
-### I can use
+### I develop with
 ![py](https://img.shields.io/badge/-Python-F08027)
 ![R](https://img.shields.io/badge/-R-76AADB)
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
@@ -25,5 +26,5 @@ Now I'm studying at `FR`, a financial engineering academy in SKKU.
 
 
 ### External Links
-* [notion](https://yihoon.notion.site/Portfolio-4157016c7b5f4fddb292f2bff9f37d65)
+* [Portfolio](https://yihoon.notion.site/Portfolio-4157016c7b5f4fddb292f2bff9f37d65)
 * email: appleof01@g.skku.edu
