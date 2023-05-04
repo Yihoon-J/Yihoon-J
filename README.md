@@ -13,7 +13,7 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU.
 Now I'm studying at `FR` - financial engineering academy in SKKU.
 
 
-### I develop with
+### I work with
 ![py](https://img.shields.io/badge/-Python-F08027)
 ![R](https://img.shields.io/badge/-R-76AADB)
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
@@ -27,5 +27,5 @@ Now I'm studying at `FR` - financial engineering academy in SKKU.
 
 ### External Links
 * [Portfolio](https://yihoon.notion.site/Portfolio-4157016c7b5f4fddb292f2bff9f37d65)
-* [Linkedin] (https://www.linkedin.com/in/yihoon-j/)
+* [Linkedin](https://www.linkedin.com/in/yihoon-j/)
 * email: appleof01@g.skku.edu
