@@ -14,7 +14,7 @@ Now I'm studying at `FR` - financial engineering academy in SKKU.
 
 ### I work with
 ![py](https://img.shields.io/badge/-Python-F08027)
-![aw](https://img.shields.io/badge/-AWS-C0A047)
+![aw](https://img.shields.io/badge/-AWS-D07047)
 ![R](https://img.shields.io/badge/-R-76AADB)
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
 ![Tab](https://img.shields.io/badge/-Tableau-468CBB)
