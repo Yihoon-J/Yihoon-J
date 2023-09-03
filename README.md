@@ -28,4 +28,4 @@ Now I'm studying at `FR` - financial engineering academy in SKKU.
 
 ### External Links
 * [Linkedin](https://www.linkedin.com/in/yihoon-j/)
-* email: appleof01@g.skku.edu (personal) | jeon.yihoon@betabrin.co.kr (work)
+* email: appleof01@g.skku.edu (personal)
