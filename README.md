@@ -26,10 +26,7 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 ![Oracle](https://img.shields.io/badge/-Oracle-bb1111)
 ![af](https://img.shields.io/badge/-Airflow-11bbbb)
 
-### I published
-- Y.Jeon, "Differences in Press Photography by the Political Tendency of Media Companies: Focusing on union-related reports", 도전학기 Python활용 인문사회과학 논문쓰기 논문집, Vol.3 No.1, 2022
-
 
 ### External Links
 * [Linkedin](https://www.linkedin.com/in/yihoon-j/)
-* email: appleof01@g.skku.edu (personal)
+* email: appleof01@gmail.com (personal)
