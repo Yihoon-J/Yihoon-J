@@ -3,13 +3,16 @@ I'm an undergraduate student in **Sungkyunkwan University**,
 
 studying `Business Administration` and `Data Science`.
 
-I was at **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer**
+### I work(ed) at
+- **[Codeit](https://www.codeit.kr/year-end)**, as **DS/DE Content Partner** (2023.11~)
 
-**Business Analysis** and **Financial Engineering** are my major interests.
+- **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer** (2023.01~2023.08)
 
-I was a chief manager of `DSCover` - data analyzing academy in SKKU.
+**Business Analysis**, **IT Education** and **MLops** are my major interests.
 
-Now I'm studying at `FR` - financial engineering academy in SKKU.
+I was a chief manager of `DSCover` - data analyzing academy in SKKU,
+
+ as well as `FR` - financial engineering academy in SKKU.
 
 
 ### I work with
