@@ -11,7 +11,7 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 
  
 ### I work(ed) at
-- **[Codeit](https://www.codeit.kr/year-end)**, as **DS/DE Content Developer** (2023.11~)
+- **[Codeit](https://www.codeit.kr/)**, as **DS/DE Content Developer** (2023.11~)
 
 - **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer** (2023.01~2023.08)
 
