@@ -11,7 +11,7 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 
  
 ### I work(ed) at
-- **Shinsan Analytics**, as **Freelancer AWS Developer**
+- **Shinsan Analytics**, as **Freelancer AWS Developer** (2023.03~)
   
 - **[Codeit](https://www.codeit.kr/)**, as **DS/DE Content Developer** (2023.11~2023.03)
 
