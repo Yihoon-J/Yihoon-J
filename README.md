@@ -11,6 +11,8 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 
  
 ### I work(ed) at
+- **Shinsan Analytics**, as **Freelancer AWS Developer**
+  
 - **[Codeit](https://www.codeit.kr/)**, as **DS/DE Content Developer** (2023.11~2023.03)
 
 - **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer** (2023.01~2023.08)
