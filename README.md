@@ -1,7 +1,7 @@
 ## Welcome to Yihoon's GitHub!
-I'm an undergraduate student in **Sungkyunkwan University**,
+I recently graduated **Sungkyunkwan University**,
 
-studying `Business Administration` and `Data Science`.
+majored in `Business Administration` and `Data Science`.
 
 **Business Analysis**, **IT Education** and **MLops** are my major interests.
 
@@ -13,7 +13,7 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 ### I work(ed) at
 - **Shinsan Analytics**, as **Freelancer AWS Developer** (2023.03~)
   
-- **[Codeit](https://www.codeit.kr/)**, as **DS/DE Content Developer** (2023.11~2023.03)
+- **[Codeit](https://www.codeit.kr/)**, as **Freelancer DS/DE Content Developer** (2023.11~2023.03)
 
 - **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer** (2023.01~2023.08)
 
