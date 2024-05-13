@@ -31,4 +31,5 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 
 ### External Links
 * [Linkedin](https://www.linkedin.com/in/yihoon-j/)
+* [Velog](https://velog.io/@appleof01/posts)
 * email: appleof01@gmail.com (personal)
