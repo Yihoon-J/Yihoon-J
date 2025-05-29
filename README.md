@@ -2,6 +2,7 @@
 
 **Cloud Computing**, **Business Analysis**, **IT Education** and **AI services** are my major interests.
 
+---
 
 ### I work(ed) at
 
@@ -11,7 +12,11 @@
 
 - **[Betabrain](https://www.betabrain.co.kr/)**, as **Data Scientist** and **MLops Engineer** (2023.01~2023.08)
 
-I graduated **Sungkyunkwan University**,
+---
+
+### I graduated
+
+**Sungkyunkwan University**,
 
 majored in `Business Administration` and `Data Science`.
 
@@ -19,15 +24,19 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 
  as well as `FR` - financial engineering academy in SKKU.
 
-I'm currently serving my country as a mandatory military service at **Ministry of Foreign Affarirs, Republic of Korea**,
+---
+
+### I'm currently
+serving my country as a mandatory military service at **Ministry of Foreign Affarirs, Republic of Korea**,
 
 managing diplomatic pouches.
 
+---
 
 ### I work with
 ![py](https://img.shields.io/badge/-Python-F08027)
 ![aw](https://img.shields.io/badge/-AWS-D07047)
-![az](https://img.shields.io/badge/-AZURE-0EB8E0)
+![az](https://img.shields.io/badge/-Azure-0EB8E0)
 ![R](https://img.shields.io/badge/-R-76AADB)
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
 ![Tab](https://img.shields.io/badge/-Tableau-468CBB)
@@ -40,5 +49,5 @@ managing diplomatic pouches.
 ### External Links
 * [Linkedin](https://www.linkedin.com/in/yihoon-j/)
 * [Velog](https://velog.io/@appleof01/posts)
-* [Tableau] (https://public.tableau.com/app/profile/yihoon)
+* [Tableau](https://public.tableau.com/app/profile/yihoon)
 * email: appleof01@gmail.com (personal)
