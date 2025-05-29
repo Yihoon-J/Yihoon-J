@@ -34,17 +34,17 @@ managing **dispatch and security handling of diplomatic pouches.**
 ---
 
 ### I work with
-![py](https://img.shields.io/badge/-Python-F08027)
+![py](https://img.shields.io/badge/-Python-F9DA63)
 ![js](https://img.shields.io/badge/-Javascript-F8E138)
-![aw](https://img.shields.io/badge/-AWS-D07047)
-![az](https://img.shields.io/badge/-Azure-0EB8E0)
-![R](https://img.shields.io/badge/-R-76AADB)
-![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
-![Tab](https://img.shields.io/badge/-Tableau-468CBB)
+![aw](https://img.shields.io/badge/-AWS-F19E38)
+![az](https://img.shields.io/badge/-Azure-5BAFE6)
+![R](https://img.shields.io/badge/-R-88A8D3)
+![QGIS](https://img.shields.io/badge/-QGIS-96AE40)
+![Tab](https://img.shields.io/badge/-Tableau-3B70A3)
 ![mS](https://img.shields.io/badge/-mySQL-124469)
 ![pS](https://img.shields.io/badge/-postgreSQL-3E6288)
 ![Oracle](https://img.shields.io/badge/-Oracle-bb1111)
-![af](https://img.shields.io/badge/-Airflow-11bbbb)
+![af](https://img.shields.io/badge/-Airflow-377884)
 
 
 ### External Links
