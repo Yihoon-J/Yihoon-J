@@ -6,7 +6,7 @@
 
 ### I work(ed) at
 
-- **Shinsan Analytics**, as ** AWS Developer** (2024.03~2024.07)
+- **Shinsan Analytics**, as **Freelancer AWS Developer** (2024.03~2024.07)
   
 - **[Codeit](https://www.codeit.kr/)**, as **Freelancer DS/DE Content Developer** (2023.11~2024.09)
 
