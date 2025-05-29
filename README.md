@@ -35,13 +35,14 @@ managing **dispatch and security handling of diplomatic pouches.**
 
 ### I work with
 ![py](https://img.shields.io/badge/-Python-F08027)
+![js](https://img.shields.io/badge/-Javascript-F8E138)
 ![aw](https://img.shields.io/badge/-AWS-D07047)
 ![az](https://img.shields.io/badge/-Azure-0EB8E0)
 ![R](https://img.shields.io/badge/-R-76AADB)
 ![QGIS](https://img.shields.io/badge/-QGIS-76A32A)
 ![Tab](https://img.shields.io/badge/-Tableau-468CBB)
-![mySQL](https://img.shields.io/badge/-mySQL-124469)
-![post](https://img.shields.io/badge/-postgreSQL-3E6288)
+![mS](https://img.shields.io/badge/-mySQL-124469)
+![pS](https://img.shields.io/badge/-postgreSQL-3E6288)
 ![Oracle](https://img.shields.io/badge/-Oracle-bb1111)
 ![af](https://img.shields.io/badge/-Airflow-11bbbb)
 
