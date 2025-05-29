@@ -27,9 +27,9 @@ I was a chief manager of `DSCover` - data analyzing academy in SKKU,
 ---
 
 ### I'm currently
-serving my country as a mandatory military service at **Ministry of Foreign Affarirs, Republic of Korea**,
+serving my country as a mandatory military service at **[Ministry of Foreign Affarirs, Republic of Korea](https://www.mofa.go.kr/eng/index.do)**,
 
-managing diplomatic pouches.
+managing **dispatch and security handling of diplomatic pouches.**
 
 ---
 
