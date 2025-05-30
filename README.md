@@ -46,6 +46,18 @@ managing **dispatch and security handling of diplomatic pouches.**
 ![Oracle](https://img.shields.io/badge/-OracleDB-EA3323)
 ![af](https://img.shields.io/badge/-Airflow-377884)
 
+and AI tools like
+![cl](https://img.shields.io/badge/-Claude-C6785B)
+![pl](https://img.shields.io/badge/-Perplexity-3E7988)
+![gm](https://img.shields.io/badge/-Gemini-3E84E8)
+![lm](https://img.shields.io/badge/-NotebookLM-222222)
+![ls](https://img.shields.io/badge/-LMstudio-6362D7)
+
+
+
+
+
+
 
 ### External Links
 * [Linkedin](https://www.linkedin.com/in/yihoon-j/)
