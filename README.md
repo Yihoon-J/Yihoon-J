@@ -41,9 +41,9 @@ managing **dispatch and security handling of diplomatic pouches.**
 ![R](https://img.shields.io/badge/-R-88A8D3)
 ![QGIS](https://img.shields.io/badge/-QGIS-96AE40)
 ![Tab](https://img.shields.io/badge/-Tableau-3B70A3)
-![mS](https://img.shields.io/badge/-mySQL-124469)
-![pS](https://img.shields.io/badge/-postgreSQL-3E6288)
-![Oracle](https://img.shields.io/badge/-Oracle-bb1111)
+![mS](https://img.shields.io/badge/-mySQL-32738C)
+![pS](https://img.shields.io/badge/-postgreSQL-3E668F)
+![Oracle](https://img.shields.io/badge/-OracleDB-EA3323)
 ![af](https://img.shields.io/badge/-Airflow-377884)
 
 
