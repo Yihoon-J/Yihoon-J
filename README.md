@@ -20,9 +20,9 @@
 
 majored in `Business Administration` and `Data Science`.
 
-I was a chief manager of `DSCover` - data analyzing academy in SKKU,
+I was a chief manager of **[DSCover]**(https://www.instagram.com/dscover_skku) - data analyzing academy in SKKU,
 
- as well as `FR` - financial engineering academy in SKKU.
+ as well as **[FR]**(https://sites.google.com/view/financialrainmakers) - financial engineering academy in SKKU.
 
 ---
 
